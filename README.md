@@ -121,13 +121,17 @@ Pivot tables were created to support decision-making:
 
 **Screenshots**
 
-Screenshots included in the _/03_screenshots_ folder show:
+### Power Query transformation steps
+![Power Query steps](03_screenshots/01_power_query_steps.png)
 
-⦁	Power Query transformation steps
+### After merging with Price List
+![After merge](03_screenshots/02_power_query_steps_after_merging.png)
 
-⦁	Final fact table
+### Final fact table
+![Fact table](03_screenshots/03_fact_table.png)
 
-⦁	Pivot-based budget summaries
+### Pivot summary dashboard
+![Pivots](03_screenshots/04_pivots.png)
 
 **Disclaimer**
 
